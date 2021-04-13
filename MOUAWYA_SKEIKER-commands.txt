@@ -1,0 +1,4 @@
+1- git init ( to creat a git file)
+2- git status ( to check whether there are files on the working area or staging area need to be commited)
+3- git log ( to see the actions history)
+4- git clone ( to import a repository to your computer)
